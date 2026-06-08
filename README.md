@@ -155,12 +155,9 @@ AI-Classification-Project/
 
 **Aastha**
 
-Artificial Intelligence Internship Project
-
-2026
-
+DecodeLabs - Artificial Intelligence Internship 2026
 ---
 
 ## ⭐ Acknowledgements
 
-This project was completed as part of the Artificial Intelligence Industrial Training Program and focuses on developing foundational machine learning skills through practical implementation.
+This project was completed as part of the Artificial Intelligence Industrial Training by **DecodeLabs** and focuses on developing foundational machine learning skills through practical implementation.

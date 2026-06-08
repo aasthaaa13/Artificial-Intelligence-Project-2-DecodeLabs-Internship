@@ -154,8 +154,7 @@ AI-Classification-Project/
 ## 👩‍💻 Author
 
 **Aastha**
-
-DecodeLabs - Artificial Intelligence Internship 2026
+- DecodeLabs - Artificial Intelligence Internship 2026
 ---
 
 ## ⭐ Acknowledgements
